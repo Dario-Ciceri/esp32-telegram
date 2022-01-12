@@ -4,9 +4,9 @@ Codice per controllare qualsiasi cosa tramite Telegram e una scheda esp32
 
 # Librerie da installare
 
-Controllo di Telegram: https://github.com/horihiro/esp8266-google-home-notifier
+Controllo di Telegram: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 
-Controllo di un dispositivo Google Home: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+Controllo di un dispositivo Google Home: https://github.com/horihiro/esp8266-google-home-notifier
 
 # Profili
 
